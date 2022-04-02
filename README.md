@@ -1,4 +1,4 @@
-# Project Name
+# Sports Celebrity Classification
 > Outline a brief description of your project.
 > Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
 
@@ -37,7 +37,7 @@ List the ready features here:
 - Awesome feature 3
 
 
-## Screenshots
+## Working video
 ![Example screenshot](./img/screenshot.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
