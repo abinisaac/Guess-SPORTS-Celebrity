@@ -38,7 +38,7 @@ List the ready features here:
 
 
 ## Working video
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](./_.gif)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
