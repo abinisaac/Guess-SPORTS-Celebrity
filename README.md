@@ -1,12 +1,13 @@
 # Sports Celebrity Classification
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+> We humans recognize others by their faces, eyes etc whereas machines see them like a matrix of numbers. 
+> 
+> Here we are creating a ML model which identifies some celebrities by their faces and eyes based on its training with a good number of images of those celebrities. 
 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
-* [Screenshots](#screenshots)
+* [Working](#working)
 * [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
@@ -37,7 +38,7 @@ List the ready features here:
 - Awesome feature 3
 
 
-## Working video
+## Working
 ![Example screenshot](./_.gif)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
