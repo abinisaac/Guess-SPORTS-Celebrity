@@ -8,13 +8,14 @@
 * [Technologies Used](#technologies-used)
 * [Features](#features)
 * [Working](#working)
-* [Setup](#setup)
-* [Usage](#usage)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
-* [Acknowledgements](#acknowledgements)
+
 * [Contact](#contact)
 <!-- * [License](#license) -->
+<!--5* [Setup](#setup)
+* [Usage](#usage)-->
+<!--8* [Acknowledgements](#acknowledgements)-->
 
 
 ## General Information
@@ -38,7 +39,7 @@ List the ready features here:
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
-## Setup
+<!--## Setup
 What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
 
 Proceed to describe how to install / setup one's local environment / get started with the project.
@@ -48,7 +49,7 @@ Proceed to describe how to install / setup one's local environment / get started
 How does one go about using it?
 Provide various use cases and code examples here.
 
-`write-your-code-here`
+`write-your-code-here`-->
 
 
 ## Project Status
