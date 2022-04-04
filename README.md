@@ -7,12 +7,12 @@
 ## Table of Contents
 * [Goal](#goal)
 * [Approach](#approach)
-* [Features](#features)
 * [Working](#working)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 
-* [Contact](#contact)
+<!--* [Contact](#contact)-->
+<!--* [Features](#features)-->
 <!-- * [License](#license) -->
 <!--5* [Setup](#setup)
 * [Usage](#usage)-->
@@ -31,15 +31,15 @@ Our journey will have 3  major steps
 - User Interface <ul><li>A webpage to drag and drop the test image</li><li>Image gets converted base 64 encoded string</li><li>Pass that string to our backend (Flask web server)</li></ul>
 
 
-## Features
+<!--## Features
 List the ready features here:
 - Awesome feature 1
 - Awesome feature 2
-- Awesome feature 3
+- Awesome feature 3-->
 
 
 ## Working
-![Example screenshot](./_.gif)
+![Working demo](./_.gif)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
@@ -57,22 +57,21 @@ Provide various use cases and code examples here.
 
 
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
+Project is: _Underwork to add new features_
 
 
 ## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
 
 Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
+- Ability to identify any two celebrity from an image
+- Ability to handle some images which gave unexpected results.(Check the Image_Exceptions folder)
 
 To do:
-- Feature to be added 1
-- Feature to be added 2
+- User can give review for the classification
+- Host it online
 
 
-## Acknowledgements
+<!--## Acknowledgements
 Give credit here.
 - This project was inspired by...
 - This project was based on [this tutorial](https://www.example.com).
@@ -80,7 +79,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!-->
 
 
 <!-- Optional -->
