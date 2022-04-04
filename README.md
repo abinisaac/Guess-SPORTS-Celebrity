@@ -4,8 +4,8 @@
 > Here we are creating a ML model which identifies some celebrities by their faces and eyes based on its training with a good number of images of those celebrities. 
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
+* [Goal](#goal)
+* [Approach](#approach)
 * [Features](#features)
 * [Working](#working)
 * [Project Status](#project-status)
@@ -18,13 +18,15 @@
 <!--8* [Acknowledgements](#acknowledgements)-->
 
 
-## General Information
-- 
+## Goal
+- Undestanding the simple Image classification principles
+- Train a model to do that.
+- Bring that model to a browser to real-time check.
 
-## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+## Approach
+Our journey will have 3  major steps
+- Model <ul><li>Identifying and extracting the faces of images using Haar XML</li><li>Training model to identify faces based on cropped faces of sports celebrities </li><li>Save that model as Pickle file</li></ul>
+- Server <ul><li></li><li>Training model to identify faces based on cropped faces of sports celebrities </li><li>Save that model as Pickle file</li></ul>
 
 
 ## Features
