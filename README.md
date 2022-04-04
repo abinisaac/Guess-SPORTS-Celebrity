@@ -3,6 +3,7 @@
 > 
 > Here we are creating a ML model which identifies some celebrities by their faces and eyes based on its training with a good number of images of those celebrities. 
 
+
 ## Table of Contents
 * [Goal](#goal)
 * [Approach](#approach)
