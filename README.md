@@ -2,7 +2,8 @@
 > We humans recognize others by their faces, eyes etc whereas machines see them like a matrix of numbers. 
 > 
 > Here we are creating a ML model which identifies some celebrities by their faces and eyes based on its training with a good number of images of those celebrities. 
-
+>
+> _Live Demo (Will be added soon)_
 
 ## Table of Contents
 * [Goal](#goal)
