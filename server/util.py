@@ -65,8 +65,8 @@ def get_cv2_image_from_base64_string(b64str):
 
 
 def get_cropped_image_if_2_eyes(image_path, image_base64_data):
-    face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
-    eye_cascade = cv2.CascadeClassifier('haarcascade_eye.xml')
+    face_cascade = cv2.CascadeClassifier(r'C:\Users\hp\AppData\Local\Programs\Python\Python39\Lib\site-packages\cv2\data\haarcascade_frontalface_default.xml')
+    eye_cascade = cv2.CascadeClassifier(r'C:\Users\hp\AppData\Local\Programs\Python\Python39\Lib\site-packages\cv2\data\haarcascade_eye.xml')
 
     if image_path:
         img = cv2.imread(image_path)
