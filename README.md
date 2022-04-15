@@ -21,12 +21,12 @@
 
 
 ## Goal
-- Undestanding the simple Image classification principles
+- Undestanding the simple Image classification principle.
 - Train a model to do that.
 - Bring that model to a browser to real-time check.
 
 ## Approach
-Our journey will have 3  major steps
+Our journey will have 3  major steps:
 - Model <ul><li>Identifying and extracting the faces of images using Haar XML</li><li>Training model to identify faces based on cropped faces of sports celebrities </li><li>Save that model as Pickle file</li></ul>
 - Server <ul><li>Create a backend which will accept the image from UI</li><li>Use the saved model to identify that image</li><li>Return that celebrity name and a list of similarity values compared to all the Celebrities</li></ul>
 - User Interface <ul><li>A webpage to drag and drop the test image</li><li>Image gets converted base 64 encoded string</li><li>Pass that string to our backend (Flask web server)</li></ul>
